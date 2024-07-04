@@ -143,7 +143,7 @@
     {% line 1
         \bf \commandkey{program}%
     } \hfill {%
-        Graduating \commandkey{graduation}%
+        \commandkey{graduation}%
     } \\ % line end
     {% line 2
         \commandkey{university}%
@@ -154,7 +154,6 @@
         \commandkey{college}
     } \\ % line end
     {% line 4
-        Relevant coursework: \commandkey{coursework}%
     }% line end
 }%
 
